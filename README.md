@@ -1,6 +1,6 @@
 # mvc-crud
 
-crud biasa + login pake session
+crud biasa + login pake session, tapi pake mvc design pattern
 
 # cara make
 1. buat database, caranya menggunakan script di file sql.sql
